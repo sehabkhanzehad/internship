@@ -36,12 +36,12 @@ php artisan migrate:fresh --seed
 
 ## Step 5: 
 - Upload this project your github repository
-- Share your repository with us.
+- Share your repository in this whatsapp.
+- Whatsapp: 
+  - 01889-992919
 
 
 # If Need Any Help:
 
 - Whatsapp: 
-  - 01889-992911
   - 01889-992919
-  - 01889-992913
